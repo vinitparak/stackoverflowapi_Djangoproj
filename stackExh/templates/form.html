@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Question Form</title>
+	<link rel="stylesheet" type="text/css" href="/static/style.css">
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>	<script type="text/javascript" src='/static/index.js'></script>
+	<script type="text/javascript" src='../static/index.js'></script>
+</head>
+<body >
+	<div ng-app="stackApp" ng-controller="stackCtrl">
+		<h2 align="center">Enter your question</h2><br>
+		<a href="/del"><button type=submit >New Session</button></a>
+		<input type='text' name='question' ng-model='question' id='question'/>
+		<button type=submit ng-click='getAnswers()'>Submit</button>
+		<span style="display: none">{/questions/}</span>
+		<table>
+			<tr>
+				<th>title</th>
+				<th>Answered</th>
+				<th>Owner</th>
+				<th>tags</th>
+			</tr>
+			<tr ng-repeat="x in answers ">
+				<td> <a href="{/x.link/}">{/x.title/}</a> </td>
+				<td>{/x.is_answered/}</td>
+				<td> <a href="{/x.owner.link/}">{/x.owner.display_name/}</a></td>
+				<td><span ng-repeat="y in x.tags">{/y/} </span> </td>
+			</tr>
+    	</table>
+
+    	<div class="pages">
+    		<span><a ng-click="clicked($event)" data-num="{/previous/}">{/previousTrue/} </a></span><span style="margin-right: 20px;"></span>
+    		<span><a ng-click="clicked($event)" data-num="{/next/}" > 	{/nextTrue/}</a></span>
+    	</div>
+
+	</div>
+	<!--
+	{% for answer in answers %}
+    {# Each "contact" is a Contact model object. #}
+    	
+    {% endfor %}
+
+	<div class="pagination">
+	    <span class="step-links">
+	        {% if answers.has_previous %}
+	            <a href="?page=1&q={{question}}">&laquo; first</a>
+	            <a href="?page={{ answers.previous_page_number }}&q={{question}}">previous</a>
+	        {% endif %}
+
+	        <span class="current">
+	            Page {{ answers.number }} of {{ answers.paginator.num_pages }}.
+	        </span>
+
+	        {% if answers.has_next %}
+	            <a href="?page={{ answers.next_page_number }}&q={{ question }}">next</a>
+	            <a href="?page={{ answers.paginator.num_pages }}&q={{ question }}">last &raquo;</a>
+	        {% endif %}
+	    </span>
+	</div>
+	-->
+</body>
+</html>

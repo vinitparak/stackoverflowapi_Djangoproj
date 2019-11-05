@@ -1,0 +1,764 @@
+[
+  {
+    "tags": [
+      "ubuntu",
+      "ethernet",
+      "gateway"
+    ],
+    "owner": {
+      "reputation": 1,
+      "user_id": 5675269,
+      "user_type": "registered",
+      "accept_rate": 0,
+      "profile_image": "https://graph.facebook.com/524603364388828/picture?type=large",
+      "display_name": "Dario Figliuzzi",
+      "link": "https://stackoverflow.com/users/5675269/dario-figliuzzi"
+    },
+    "is_answered": false,
+    "view_count": 21,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1572444958,
+    "creation_date": 1572444958,
+    "question_id": 58627357,
+    "link": "https://stackoverflow.com/questions/58627357/use-ubuntu-machine-as-gateway",
+    "title": "Use ubuntu machine as gateway"
+  },
+  {
+    "tags": [
+      "android",
+      "ios",
+      "network-programming",
+      "windows-phone",
+      "android-wifi"
+    ],
+    "owner": {
+      "reputation": 405,
+      "user_id": 805498,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/1fca174597755d43ee0d406923607e65?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Brett",
+      "link": "https://stackoverflow.com/users/805498/brett"
+    },
+    "is_answered": true,
+    "view_count": 2247,
+    "accepted_answer_id": 28885599,
+    "answer_count": 2,
+    "score": 12,
+    "last_activity_date": 1572287445,
+    "creation_date": 1423461411,
+    "last_edit_date": 1425408552,
+    "question_id": 28403627,
+    "link": "https://stackoverflow.com/questions/28403627/accessing-wifi-lan-no-gateway-and-mobile-network-simultaneously",
+    "title": "Accessing WiFi LAN (no gateway) and mobile network simultaneously"
+  },
+  {
+    "tags": [
+      "ubuntu",
+      "mobile",
+      "modem"
+    ],
+    "owner": {
+      "reputation": 9561,
+      "user_id": 710818,
+      "user_type": "registered",
+      "accept_rate": 82,
+      "profile_image": "https://www.gravatar.com/avatar/07d584c67aedce37d004f2eafa5f08fa?s=128&d=identicon&r=PG",
+      "display_name": "user710818",
+      "link": "https://stackoverflow.com/users/710818/user710818"
+    },
+    "is_answered": false,
+    "view_count": 9,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1572207380,
+    "creation_date": 1572207380,
+    "question_id": 58582988,
+    "link": "https://stackoverflow.com/questions/58582988/usb-modeswitch-cant-use-storage-command-in-messagecontent-with-interface-0",
+    "title": "USB_ModeSwitch can&#39;t use storage command in MessageContent with interface 0"
+  },
+  {
+    "tags": [
+      "portforwarding",
+      "dnsmasq"
+    ],
+    "owner": {
+      "reputation": 1,
+      "user_id": 12280086,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/1453eed4f0c7f5cb5c16bf965cac429b?s=128&d=identicon&r=PG&f=1",
+      "display_name": "torchilidae",
+      "link": "https://stackoverflow.com/users/12280086/torchilidae"
+    },
+    "is_answered": false,
+    "view_count": 8,
+    "closed_date": 1572193034,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1572143189,
+    "creation_date": 1572143189,
+    "question_id": 58576186,
+    "link": "https://stackoverflow.com/questions/58576186/port-forwarding-using-dnsmasq",
+    "closed_reason": "off-topic",
+    "title": "Port forwarding using Dnsmasq"
+  },
+  {
+    "tags": [
+      "android-studio",
+      "opentok"
+    ],
+    "owner": {
+      "reputation": 1,
+      "user_id": 10795296,
+      "user_type": "registered",
+      "profile_image": "https://graph.facebook.com/2218435738405604/picture?type=large",
+      "display_name": "Ali Hassan Raza",
+      "link": "https://stackoverflow.com/users/10795296/ali-hassan-raza"
+    },
+    "is_answered": false,
+    "view_count": 7,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1571815756,
+    "creation_date": 1571815756,
+    "question_id": 58517653,
+    "link": "https://stackoverflow.com/questions/58517653/routing-rtsp-streams-encoded-with-h-264-over-open-tok",
+    "title": "Routing RTSP streams encoded with H.264 over Open Tok"
+  },
+  {
+    "tags": [
+      "xamarin.ios",
+      "sfsafariviewcontroller",
+      "multipath"
+    ],
+    "owner": {
+      "reputation": 1062,
+      "user_id": 922929,
+      "user_type": "registered",
+      "accept_rate": 97,
+      "profile_image": "https://i.stack.imgur.com/yNc1A.jpg?s=128&g=1",
+      "display_name": "Pawan Pillai",
+      "link": "https://stackoverflow.com/users/922929/pawan-pillai"
+    },
+    "is_answered": false,
+    "view_count": 39,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1571786429,
+    "creation_date": 1571784191,
+    "last_edit_date": 1571786429,
+    "question_id": 58513203,
+    "link": "https://stackoverflow.com/questions/58513203/xamarin-ios-how-can-one-open-sfsafariviewcontroller-using-nsurlsessionmultipath",
+    "title": "Xamarin iOS: How can one open SFSafariViewController using NSUrlSessionMultipathServiceType.Handover"
+  },
+  {
+    "tags": [
+      "react-native",
+      "expo",
+      "iot"
+    ],
+    "owner": {
+      "reputation": 36,
+      "user_id": 10998456,
+      "user_type": "registered",
+      "profile_image": "https://lh4.googleusercontent.com/-0HAIUsqst6k/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQN-wuubkIqUngUQFrNaOszDFUepdQ/mo/photo.jpg?sz=128",
+      "display_name": "Matija Martic",
+      "link": "https://stackoverflow.com/users/10998456/matija-martic"
+    },
+    "is_answered": false,
+    "view_count": 68,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1571344615,
+    "creation_date": 1569348509,
+    "question_id": 58085988,
+    "link": "https://stackoverflow.com/questions/58085988/connecting-an-android-app-to-a-wifi-without-internet-access",
+    "title": "Connecting an Android app to a wifi without internet access"
+  },
+  {
+    "tags": [
+      "python",
+      "python-requests"
+    ],
+    "owner": {
+      "reputation": 841,
+      "user_id": 4585081,
+      "user_type": "registered",
+      "profile_image": "https://i.stack.imgur.com/vnGRq.jpg?s=128&g=1",
+      "display_name": "epinal",
+      "link": "https://stackoverflow.com/users/4585081/epinal"
+    },
+    "is_answered": true,
+    "view_count": 2536,
+    "accepted_answer_id": 48997550,
+    "answer_count": 2,
+    "score": 7,
+    "last_activity_date": 1571286658,
+    "creation_date": 1519676549,
+    "last_edit_date": 1519767416,
+    "question_id": 48996494,
+    "link": "https://stackoverflow.com/questions/48996494/send-http-request-through-specific-network-interface",
+    "title": "Send http request through specific network interface"
+  },
+  {
+    "tags": [
+      "server",
+      "dns",
+      "xampp",
+      "windows-10",
+      "local"
+    ],
+    "owner": {
+      "reputation": 16,
+      "user_id": 9535552,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/fa1fe2687cfa6bfa8bcfac99d6d1acbd?s=128&d=identicon&r=PG&f=1",
+      "display_name": "John Mullaney",
+      "link": "https://stackoverflow.com/users/9535552/john-mullaney"
+    },
+    "is_answered": false,
+    "view_count": 28,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1570563818,
+    "creation_date": 1570549188,
+    "last_edit_date": 1570563818,
+    "question_id": 58289718,
+    "link": "https://stackoverflow.com/questions/58289718/is-there-a-way-to-access-a-local-server-xampp-on-win10-from-other-hosts-using",
+    "title": "Is there a way to access a local server (xampp on Win10) from other hosts using a name instead of an ip-addr, without DNS server?"
+  },
+  {
+    "tags": [
+      "android",
+      "xamarin.forms",
+      "android-download-manager"
+    ],
+    "owner": {
+      "reputation": 376,
+      "user_id": 1738861,
+      "user_type": "registered",
+      "accept_rate": 48,
+      "profile_image": "https://www.gravatar.com/avatar/42bf2a56cdbe10ddc283fc7aa76e8300?s=128&d=identicon&r=PG",
+      "display_name": "Adam Mrozek",
+      "link": "https://stackoverflow.com/users/1738861/adam-mrozek"
+    },
+    "is_answered": false,
+    "view_count": 74,
+    "answer_count": 0,
+    "score": 1,
+    "last_activity_date": 1570540264,
+    "creation_date": 1570540264,
+    "question_id": 58287054,
+    "link": "https://stackoverflow.com/questions/58287054/download-manager-not-working-without-internet-access",
+    "title": "Download manager not working without internet access"
+  },
+  {
+    "tags": [
+      "arduino",
+      "ip",
+      "ethernet"
+    ],
+    "owner": {
+      "reputation": 6,
+      "user_id": 3674172,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/27de67b7aec41724535587d26fe190a3?s=128&d=identicon&r=PG&f=1",
+      "display_name": "user3674172",
+      "link": "https://stackoverflow.com/users/3674172/user3674172"
+    },
+    "is_answered": false,
+    "view_count": 6921,
+    "answer_count": 2,
+    "score": 1,
+    "last_activity_date": 1570489350,
+    "creation_date": 1401040308,
+    "question_id": 23858245,
+    "link": "https://stackoverflow.com/questions/23858245/arduino-ethernet-shield-not-working",
+    "title": "Arduino ethernet shield not working"
+  },
+  {
+    "tags": [
+      "python",
+      "kivy"
+    ],
+    "owner": {
+      "reputation": 6,
+      "user_id": 6906230,
+      "user_type": "registered",
+      "profile_image": "https://lh6.googleusercontent.com/-zTQvNBg8iLc/AAAAAAAAAAI/AAAAAAAAAKA/EhcLSYnxSO8/photo.jpg?sz=128",
+      "display_name": "\u0412\u0430\u0441\u044f \u041f\u0443\u043f\u043a\u0438\u043d",
+      "link": "https://stackoverflow.com/users/6906230/%d0%92%d0%b0%d1%81%d1%8f-%d0%9f%d1%83%d0%bf%d0%ba%d0%b8%d0%bd"
+    },
+    "is_answered": false,
+    "view_count": 37,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1570205862,
+    "creation_date": 1570205862,
+    "question_id": 58239999,
+    "link": "https://stackoverflow.com/questions/58239999/kivy-how-to-use-a-text-files-in-an-app-folder",
+    "title": "Kivy: how to use a text files in an App folder?"
+  },
+  {
+    "tags": [
+      "server",
+      "raspberry-pi",
+      "public"
+    ],
+    "owner": {
+      "reputation": 27,
+      "user_id": 6056858,
+      "user_type": "registered",
+      "accept_rate": 33,
+      "profile_image": "https://www.gravatar.com/avatar/7272f7299ee2ce9c7624e9f6c1aacd1c?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Magnus2005",
+      "link": "https://stackoverflow.com/users/6056858/magnus2005"
+    },
+    "is_answered": false,
+    "view_count": 319,
+    "answer_count": 2,
+    "score": 0,
+    "last_activity_date": 1570143159,
+    "creation_date": 1458296923,
+    "question_id": 36081980,
+    "link": "https://stackoverflow.com/questions/36081980/raspberry-pi-ssh-access-over-internet-and-public-server-www",
+    "title": "Raspberry Pi SSH access over internet and public server WWW"
+  },
+  {
+    "tags": [
+      "sqlite",
+      "ionic-framework"
+    ],
+    "owner": {
+      "reputation": 8,
+      "user_id": 2368387,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/1be9f6c227d82b9da372168d17d340bf?s=128&d=identicon&r=PG",
+      "display_name": "Sergio Razo",
+      "link": "https://stackoverflow.com/users/2368387/sergio-razo"
+    },
+    "is_answered": false,
+    "view_count": 9,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1569637926,
+    "creation_date": 1569637926,
+    "question_id": 58142917,
+    "link": "https://stackoverflow.com/questions/58142917/is-there-a-way-to-use-ionic-as-database-server-for-other-apps-using-wifi-or-blue",
+    "title": "Is there a way to use ionic as database server for other apps using wifi or bluetooth? (No internet or web server)"
+  },
+  {
+    "tags": [
+      "python",
+      "sql",
+      "sql-server",
+      "networking"
+    ],
+    "owner": {
+      "reputation": 1210,
+      "user_id": 4564080,
+      "user_type": "registered",
+      "accept_rate": 67,
+      "profile_image": "https://www.gravatar.com/avatar/83009ae032b72f3c1aa2bba01ab123e1?s=128&d=identicon&r=PG&f=1",
+      "display_name": "KOB",
+      "link": "https://stackoverflow.com/users/4564080/kob"
+    },
+    "is_answered": false,
+    "view_count": 19,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1569591005,
+    "creation_date": 1569498644,
+    "last_edit_date": 1569591005,
+    "question_id": 58116232,
+    "link": "https://stackoverflow.com/questions/58116232/connect-to-sql-servers-on-different-networks-at-the-same-time-or-switching-betwe",
+    "title": "Connect to SQL Servers on different networks at the same time or switching between them"
+  },
+  {
+    "tags": [
+      "android"
+    ],
+    "owner": {
+      "reputation": 11875,
+      "user_id": 467592,
+      "user_type": "registered",
+      "accept_rate": 92,
+      "profile_image": "https://i.stack.imgur.com/BhIvX.jpg?s=128&g=1",
+      "display_name": "Javanator",
+      "link": "https://stackoverflow.com/users/467592/javanator"
+    },
+    "is_answered": true,
+    "view_count": 130146,
+    "protected_date": 1421503747,
+    "accepted_answer_id": 3931094,
+    "answer_count": 7,
+    "score": 78,
+    "last_activity_date": 1569397208,
+    "creation_date": 1287041328,
+    "last_edit_date": 1301656280,
+    "question_id": 3930990,
+    "link": "https://stackoverflow.com/questions/3930990/android-how-to-enable-disable-wifi-or-internet-connection-programmatically",
+    "title": "Android: How to Enable/Disable Wifi or Internet Connection Programmatically"
+  },
+  {
+    "tags": [
+      "android",
+      "networking",
+      "mobile"
+    ],
+    "owner": {
+      "reputation": 530,
+      "user_id": 1102767,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/7b9d8b9acae7e07cfa57c85f46eef9e9?s=128&d=identicon&r=PG",
+      "display_name": "Paul Greyson",
+      "link": "https://stackoverflow.com/users/1102767/paul-greyson"
+    },
+    "is_answered": true,
+    "view_count": 3880,
+    "answer_count": 4,
+    "score": 22,
+    "last_activity_date": 1569266533,
+    "creation_date": 1410569626,
+    "last_edit_date": 1410601520,
+    "question_id": 25818810,
+    "link": "https://stackoverflow.com/questions/25818810/android-how-to-use-a-wifi-network-for-specific-hosts-but-have-phone-use-mobile",
+    "title": "Android: How to use a Wifi network for specific hosts but have phone use Mobile network for everything else"
+  },
+  {
+    "tags": [
+      "ansible",
+      "jinja2"
+    ],
+    "owner": {
+      "reputation": 3,
+      "user_id": 9059950,
+      "user_type": "registered",
+      "profile_image": "https://graph.facebook.com/10155970316742459/picture?type=large",
+      "display_name": "Warren Sullivan",
+      "link": "https://stackoverflow.com/users/9059950/warren-sullivan"
+    },
+    "is_answered": false,
+    "view_count": 43,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1569237254,
+    "creation_date": 1569219648,
+    "last_edit_date": 1569237254,
+    "question_id": 58056641,
+    "link": "https://stackoverflow.com/questions/58056641/transform-ansible-variable-value-based-on-input",
+    "title": "Transform ansible variable value based on input"
+  },
+  {
+    "tags": [
+      "rest",
+      "tomcat",
+      "spring-boot",
+      "lan"
+    ],
+    "owner": {
+      "reputation": 419,
+      "user_id": 6172578,
+      "user_type": "registered",
+      "accept_rate": 25,
+      "profile_image": "https://lh5.googleusercontent.com/-0qZN0JHCP_Y/AAAAAAAAAAI/AAAAAAAAAFE/iFt9xa0HwAo/photo.jpg?sz=128",
+      "display_name": "smruti ranjan",
+      "link": "https://stackoverflow.com/users/6172578/smruti-ranjan"
+    },
+    "is_answered": false,
+    "view_count": 383,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1569115535,
+    "creation_date": 1508603945,
+    "last_edit_date": 1508605640,
+    "question_id": 46865531,
+    "link": "https://stackoverflow.com/questions/46865531/unable-to-access-rest-api-of-a-spring-boot-application-which-is-running-in-my-co",
+    "title": "Unable to access REST API of a SPRING BOOT Application which is running in my computer, from another computer in same network"
+  },
+  {
+    "tags": [
+      "ios",
+      "iphone",
+      "google-maps"
+    ],
+    "owner": {
+      "reputation": 21,
+      "user_id": 768509,
+      "user_type": "registered",
+      "accept_rate": 0,
+      "profile_image": "https://www.gravatar.com/avatar/8b641120e2edfb54aca7cefa4030b1a9?s=128&d=identicon&r=PG",
+      "display_name": "Stathis",
+      "link": "https://stackoverflow.com/users/768509/stathis"
+    },
+    "is_answered": false,
+    "view_count": 873,
+    "answer_count": 3,
+    "score": 0,
+    "last_activity_date": 1568925163,
+    "creation_date": 1311499205,
+    "last_edit_date": 1568925163,
+    "question_id": 6805985,
+    "link": "https://stackoverflow.com/questions/6805985/googlemaps-over-query-limit",
+    "title": "Googlemaps OVER_QUERY_LIMIT"
+  },
+  {
+    "tags": [
+      "ios",
+      "swift",
+      "sockets"
+    ],
+    "owner": {
+      "reputation": 4,
+      "user_id": 5591679,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/50d51c0643fb7867f32aac039ce8d68c?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Shiv",
+      "link": "https://stackoverflow.com/users/5591679/shiv"
+    },
+    "is_answered": false,
+    "view_count": 27,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1568905403,
+    "creation_date": 1568898268,
+    "last_edit_date": 1568905403,
+    "question_id": 58011662,
+    "link": "https://stackoverflow.com/questions/58011662/connect-a-hardware-like-onion-raspberry-pi-to-internet-with-ios-app",
+    "title": "Connect a hardware (like Onion /raspberry pi) to Internet with iOS app"
+  },
+  {
+    "tags": [
+      "ios",
+      "crash",
+      "cocoapods",
+      "core-telephony",
+      "reachability-swift"
+    ],
+    "owner": {
+      "reputation": 748,
+      "user_id": 406055,
+      "user_type": "registered",
+      "accept_rate": 74,
+      "profile_image": "https://www.gravatar.com/avatar/b328137a635a6976df1918c3a4f26dd4?s=128&d=identicon&r=PG",
+      "display_name": "esbenr",
+      "link": "https://stackoverflow.com/users/406055/esbenr"
+    },
+    "is_answered": false,
+    "view_count": 23,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1568720314,
+    "creation_date": 1568299870,
+    "last_edit_date": 1568720314,
+    "question_id": 57909343,
+    "link": "https://stackoverflow.com/questions/57909343/mysterious-crash-with-coretelephony-on-ipad-thus-not-included",
+    "title": "Mysterious crash with CoreTelephony on iPad thus not included"
+  },
+  {
+    "tags": [
+      "ios",
+      "iphone",
+      "ios13",
+      "networkextension"
+    ],
+    "owner": {
+      "reputation": 28,
+      "user_id": 12054423,
+      "user_type": "registered",
+      "profile_image": "https://lh5.googleusercontent.com/-nrKm413o45E/AAAAAAAAAAI/AAAAAAAADuQ/Kdgr1cdsdoA/photo.jpg?sz=128",
+      "display_name": "martin aliverti",
+      "link": "https://stackoverflow.com/users/12054423/martin-aliverti"
+    },
+    "is_answered": true,
+    "view_count": 198,
+    "accepted_answer_id": 57972700,
+    "answer_count": 1,
+    "score": 5,
+    "last_activity_date": 1568717470,
+    "creation_date": 1568223605,
+    "last_edit_date": 1568231028,
+    "question_id": 57894269,
+    "link": "https://stackoverflow.com/questions/57894269/ios-13-network-connected-via-nehotspotconfiguration-disconnects-after-a-few-sec",
+    "title": "iOS 13: Network connected via NEHotspotConfiguration disconnects after a few seconds"
+  },
+  {
+    "tags": [
+      "android",
+      "kotlin",
+      "google-nearby"
+    ],
+    "owner": {
+      "reputation": 1,
+      "user_id": 10301507,
+      "user_type": "registered",
+      "profile_image": "https://lh6.googleusercontent.com/-R3QyjFjCzk8/AAAAAAAAAAI/AAAAAAAAMww/NeTfflPUClQ/photo.jpg?sz=128",
+      "display_name": "MiqeyM",
+      "link": "https://stackoverflow.com/users/10301507/miqeym"
+    },
+    "is_answered": false,
+    "view_count": 44,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1568715006,
+    "creation_date": 1568677035,
+    "last_edit_date": 1568715006,
+    "question_id": 57965578,
+    "link": "https://stackoverflow.com/questions/57965578/how-to-debug-endpoint-discovery-in-google-nearby-connections-api-on-android",
+    "title": "How to debug endpoint discovery in google nearby connections API on Android?"
+  },
+  {
+    "tags": [
+      "c#",
+      ".net",
+      "proxy",
+      "network-programming"
+    ],
+    "owner": {
+      "reputation": 549,
+      "user_id": 3051702,
+      "user_type": "registered",
+      "accept_rate": 36,
+      "profile_image": "https://i.stack.imgur.com/7r6B2.png?s=128&g=1",
+      "display_name": "fractor",
+      "link": "https://stackoverflow.com/users/3051702/fractor"
+    },
+    "is_answered": false,
+    "view_count": 350,
+    "answer_count": 1,
+    "score": 3,
+    "last_activity_date": 1568711234,
+    "creation_date": 1422984274,
+    "last_edit_date": 1495535197,
+    "question_id": 28305009,
+    "link": "https://stackoverflow.com/questions/28305009/can-i-do-better-than-networkinterface-getisnetworkavailable",
+    "title": "Can I do better than NetworkInterface.GetIsNetworkAvailable()?"
+  },
+  {
+    "tags": [
+      "android",
+      "networking",
+      "network-connection"
+    ],
+    "owner": {
+      "reputation": 3114,
+      "user_id": 409826,
+      "user_type": "registered",
+      "accept_rate": 84,
+      "profile_image": "https://www.gravatar.com/avatar/aaf8fbc1f880479454378a6663199bfa?s=128&d=identicon&r=PG",
+      "display_name": "Kevin Bradshaw",
+      "link": "https://stackoverflow.com/users/409826/kevin-bradshaw"
+    },
+    "is_answered": true,
+    "view_count": 77560,
+    "accepted_answer_id": 12864897,
+    "answer_count": 16,
+    "score": 63,
+    "last_activity_date": 1568277994,
+    "creation_date": 1349809536,
+    "last_edit_date": 1433941795,
+    "question_id": 12806709,
+    "link": "https://stackoverflow.com/questions/12806709/how-to-tell-if-mobile-network-data-is-enabled-or-disabled-even-when-connected",
+    "title": "How to tell if &#39;Mobile Network Data&#39; is enabled or disabled (even when connected by WiFi)?"
+  },
+  {
+    "tags": [
+      "powershell",
+      "uwp"
+    ],
+    "owner": {
+      "reputation": 1,
+      "user_id": 7308319,
+      "user_type": "registered",
+      "profile_image": "https://lh4.googleusercontent.com/-WZbZG6mxujo/AAAAAAAAAAI/AAAAAAAAADg/eEWrfMl_Opc/photo.jpg?sz=128",
+      "display_name": "\u6c5f\u8cab\u69ae",
+      "link": "https://stackoverflow.com/users/7308319/%e6%b1%9f%e8%b2%ab%e6%a6%ae"
+    },
+    "is_answered": false,
+    "view_count": 53,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1568256742,
+    "creation_date": 1568256742,
+    "question_id": 57899096,
+    "link": "https://stackoverflow.com/questions/57899096/tetheringwifiband-in-windows-networking-networkoperators",
+    "title": "TetheringWiFiBand in Windows.Networking.NetworkOperators"
+  },
+  {
+    "tags": [
+      "objective-c",
+      "xcode",
+      "settings"
+    ],
+    "owner": {
+      "reputation": 399,
+      "user_id": 1792135,
+      "user_type": "registered",
+      "accept_rate": 78,
+      "profile_image": "https://i.stack.imgur.com/q8Dcd.png?s=128&g=1",
+      "display_name": "Gergely Kovacs",
+      "link": "https://stackoverflow.com/users/1792135/gergely-kovacs"
+    },
+    "is_answered": true,
+    "view_count": 14,
+    "accepted_answer_id": 57887877,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1568200353,
+    "creation_date": 1568195311,
+    "question_id": 57886456,
+    "link": "https://stackoverflow.com/questions/57886456/how-to-handle-ios-settings-if-app-uses-the-network",
+    "title": "How to Handle iOS Settings if App Uses the Network?"
+  },
+  {
+    "tags": [
+      "java",
+      "android",
+      "android-studio",
+      "fbo"
+    ],
+    "owner": {
+      "reputation": 1,
+      "user_id": 11887056,
+      "user_type": "registered",
+      "profile_image": "https://lh6.googleusercontent.com/-kYI0iXS8kFk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf4pfAJwAbxQN1DGChBgmefKsVnoA/photo.jpg?sz=128",
+      "display_name": "Primtoes",
+      "link": "https://stackoverflow.com/users/11887056/primtoes"
+    },
+    "is_answered": false,
+    "view_count": 118,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1568146520,
+    "creation_date": 1568142271,
+    "last_edit_date": 1568145159,
+    "question_id": 57876850,
+    "link": "https://stackoverflow.com/questions/57876850/what-does-this-error-mean-emulator-framebufferdatarestore-warning-a-textur",
+    "title": "What does this error mean? Emulator: FramebufferData::restore: warning: a texture is deleted without unbinding FBO"
+  },
+  {
+    "tags": [
+      "raspberry-pi",
+      "openwrt",
+      "coovachilli"
+    ],
+    "owner": {
+      "reputation": 742,
+      "user_id": 3896616,
+      "user_type": "registered",
+      "accept_rate": 55,
+      "profile_image": "https://lh5.googleusercontent.com/-c87OgJ2ELNM/AAAAAAAAAAI/AAAAAAAAA-0/jhy09eaLnSk/photo.jpg?sz=128",
+      "display_name": "mauron85",
+      "link": "https://stackoverflow.com/users/3896616/mauron85"
+    },
+    "is_answered": false,
+    "view_count": 37,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1568046979,
+    "creation_date": 1566744251,
+    "question_id": 57647027,
+    "link": "https://stackoverflow.com/questions/57647027/running-captive-portal-outside-of-access-point",
+    "title": "running captive portal outside of access point"
+  }
+]
